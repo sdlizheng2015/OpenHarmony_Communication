@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块化缩比样车控制中心"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "基于Protobuf的通信"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "控制中心"
+    },
+    {
+      "name": "reason_udp",
+      "value": "使用udp"
+    }
+  ]
+}

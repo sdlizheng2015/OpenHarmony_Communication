@@ -1,0 +1,16 @@
+{
+  "license": "",
+  "devDependencies": {
+    "@ohos/hypium": "1.0.11"
+  },
+  "author": "",
+  "name": "openharmony_communication",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "version": "1.0.0",
+  "dependencies": {
+    "@ohos/protobufjs": "^2.0.1",
+    "long": "^5.2.1"
+  },
+  "dynamicDependencies": {}
+}

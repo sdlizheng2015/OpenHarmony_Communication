@@ -1,0 +1,10 @@
+{
+  "app": {
+    "bundleName": "com.example.openharmony_communication",
+    "vendor": "lizh",
+    "versionCode": 1000000,
+    "versionName": "1.0.0",
+    "icon": "$media:lan",
+    "label": "$string:app_name"
+  }
+}
