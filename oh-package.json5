@@ -8,9 +8,9 @@
   "description": "Please describe the basic information.",
   "main": "",
   "version": "1.0.0",
+  "dynamicDependencies": {},
   "dependencies": {
     "@ohos/protobufjs": "^2.0.1",
     "long": "^5.2.1"
-  },
-  "dynamicDependencies": {}
+  }
 }
