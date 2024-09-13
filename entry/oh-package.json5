@@ -6,5 +6,8 @@
   "description": "Please describe the basic information.",
   "main": "",
   "version": "1.0.0",
-  "dependencies": {}
+  "dependencies": {
+    "long": "^5.2.1",
+    "@ohos/protobufjs": "^2.0.1"
+  }
 }
