@@ -4,13 +4,13 @@
       {
         "name": "default",
         "material": {
-          "certpath": "C:\\Users\\44762\\.ohos\\config\\openharmony\\auto_ohos_default_OpenHarmony_Communication_com.example.openharmony_communication.cer",
-          "storePassword": "0000001B493E95F95050D379EE9843998A46A58B65FE966BE6F216AC9A7D97ACF807C718946AEA6E7BA0D4",
+          "certpath": "C:\\Users\\thinkpad\\.ohos\\config\\openharmony\\auto_ohos_default_OpenHarmony_Communication_com.example.openharmony_communication.cer",
+          "storePassword": "0000001BE200B36D28442DC16035A36D49F043522CED0DE45ABDDEA3454E4F1A8B12164ABC01E8B0FBFF20",
           "keyAlias": "debugKey",
-          "keyPassword": "0000001B4E236DFF1321CD8ECEDBE0F3A204F09BD32A9E2F849F034DAE740057C7E683BB45C9CB4718E7B9",
-          "profile": "C:\\Users\\44762\\.ohos\\config\\openharmony\\auto_ohos_default_OpenHarmony_Communication_com.example.openharmony_communication.p7b",
+          "keyPassword": "0000001BB230252305277181C2881622350DAEA25D7BD2131705B0A86AF2A51738230E74FD8B7C5EBF0426",
+          "profile": "C:\\Users\\thinkpad\\.ohos\\config\\openharmony\\auto_ohos_default_OpenHarmony_Communication_com.example.openharmony_communication.p7b",
           "signAlg": "SHA256withECDSA",
-          "storeFile": "C:\\Users\\44762\\.ohos\\config\\openharmony\\auto_ohos_default_OpenHarmony_Communication_com.example.openharmony_communication.p12"
+          "storeFile": "C:\\Users\\thinkpad\\.ohos\\config\\openharmony\\auto_ohos_default_OpenHarmony_Communication_com.example.openharmony_communication.p12"
         }
       }
     ],
