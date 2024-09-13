@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-package lifting;
-message LiftingResponse{
-   bool isDown = 1;
-}

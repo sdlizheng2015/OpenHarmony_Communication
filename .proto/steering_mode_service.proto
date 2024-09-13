@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-package steering_mode;
-message SteeringModeResponse{
-   string steeringMode = 1;
-   int64 steeringModeId = 2;
-}
