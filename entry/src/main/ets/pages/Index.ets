@@ -13,13 +13,13 @@ import { Logger } from 'entry/src/main/ets/common/Logger';
 const defaultEthPort: string = 'eth0';
 const defaultEthConfig: ethernet.InterfaceConfiguration = {
   mode: 0,
-  ipAddr: '192.168.137.166',
-  route: '192.168.137.2',
-  gateway: '192.168.137.2',
+  ipAddr: '192.168.1.166',
+  route: '192.168.1.1',
+  gateway: '192.168.1.1',
   netMask: '255.255.255.0',
   dnsServers: '8.8.8.8'
 };
-const defaultWsIpAddress: string = 'ws://192.168.137.1:8080';
+const defaultWsIpAddress: string = 'ws://192.168.1.15:8080';
 
 @Entry
 @Component
